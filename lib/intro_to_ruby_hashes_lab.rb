@@ -3,14 +3,14 @@ def new_hash
 end
 
 def my_hash
-  dog = {name: "Squeeter"}
+  dog = { name: "Squeeter" }
 end
 
 def pioneer
-  person = {name: "Grace Hopper"
+  person = { name: "Grace Hopper" }
 end
 
 
 def id_hash_generator(number)
-  {id: number}
+  { id: number }
 end
